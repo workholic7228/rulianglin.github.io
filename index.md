@@ -20,24 +20,25 @@ I am currently working on topics related to **trusted execution**, **memory isol
 
 ## Selected Publications
 
-- **Your Name**, ...  
+![- **Your Name**, ...  
   *MemGuard-LLM: Protecting On-device LLM Confidentiality Against Kernel-Level Attacks*.  
   Under review / Conference Name, Year.
 
 - **Your Name**, ...  
   *Gap in Security Model: In-depth Analysis of CCA Interface Vulnerabilities*.  
-  Under review / Conference Name, Year.
+  Under review / Conference Name, Year.]()
 
 ## Ongoing Projects
 
-- **MemGuard-LLM**  
+![- **MemGuard-LLM**  
   A defense framework combining secure memory management and trusted execution for on-device LLM protection.
 
 - **CCA Security Analysis**  
   A systematic study of interface-level attack surfaces in confidential computing architectures.
 
 - **Secure Edge AI Deployment**  
-  Exploring practical protection mechanisms for LLM inference on embedded ARM platforms.
+  Exploring practical protection mechanisms for LLM inference on embedded ARM platforms.]()
+
 
 ## Contact
 
