@@ -20,7 +20,7 @@ I am currently working on topics related to **trusted execution**, **memory isol
 
 ## Selected Publications
 
-![- **Your Name**, ...  *MemGuard-LLM: Protecting On-device LLM Confidentiality Against Kernel-Level Attacks*.  Under review / Conference Name, Year.- **Your Name**, ...  *Gap in Security Model: In-depth Analysis of CCA Interface Vulnerabilities*.  Under review / Conference Name, Year.]()
+![](- **Your Name**, ...  *MemGuard-LLM: Protecting On-device LLM Confidentiality Against Kernel-Level Attacks*.  Under review / Conference Name, Year.- **Your Name**, ...  *Gap in Security Model: In-depth Analysis of CCA Interface Vulnerabilities*.  Under review / Conference Name, Year.)
 
 ## Ongoing Projects
 
