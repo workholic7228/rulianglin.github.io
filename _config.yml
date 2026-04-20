@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
-title: Octocat's homepage
-description: Bookmark this to keep an eye on my project updates!
+title: Your Name
+description: Researcher in Systems Security, Trusted Computing, and AI Security
+logo: /assets/img/profile.jpg
+show_downloads: false
